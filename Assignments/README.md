@@ -7,7 +7,6 @@
 ### Lession_02
 - Search Policy--BFS / DFS
 - Loss / Gradient Descent
-- Assignment_02
 
 ### Lession_03
 - Dynamic Programming
