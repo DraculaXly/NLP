@@ -38,4 +38,4 @@
       global_step = 45000  
       loss = -327.73026  
 2. Keras+LSTM
-  - 采用Multi_Outputs，用了20层的模型，准确率具体看Jupyter文件
+  - 采用Multi_Outputs，用了20层的模型，准确率具体看Notebook文件。
